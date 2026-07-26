@@ -1,0 +1,11 @@
+# Tic Tac Toe — requirements
+#
+# This project uses only Python's standard library (tkinter, copy,
+# random). No pip installs are required.
+#
+# tkinter ships with most standard Python installations. On some Linux
+# distributions it must be installed separately via your package manager:
+#
+#   Ubuntu/Debian:  sudo apt-get install python3-tk
+#   Fedora:         sudo dnf install python3-tkinter
+#   macOS/Windows:  included with the official python.org installer
